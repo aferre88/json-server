@@ -1,0 +1,1907 @@
+{
+  "coches": [
+    {
+      "id": 1,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2004,
+      "color": "Amarillo",
+      "matricula": "4994CFV",
+      "precio_diario": 60,
+      "alquiler": {
+        "clienteId": 1,
+        "fechaInicio": "2022-11-05"
+      },
+      "imagen": "pexels-jay-pizzle-15085605.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 75559
+    },
+    {
+      "id": 2,
+      "marca": "Citroën",
+      "modelo": "C3",
+      "año": 2017,
+      "color": "Azul",
+      "matricula": "9526TZY",
+      "precio_diario": 59,
+      "alquiler": null,
+      "imagen": "pexels-jay-pizzle-3802510.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 28059
+    },
+    {
+      "id": 3,
+      "marca": "Renault",
+      "modelo": "Captur",
+      "año": 2018,
+      "color": "Negro",
+      "matricula": "4709JMD",
+      "precio_diario": 94,
+      "alquiler": {
+        "clienteId": 49,
+        "fechaInicio": "2023-01-28"
+      },
+      "imagen": "pexels-helmy-zairy-15253379.jpg",
+      "nota": null,
+      "kilometraje": 89373
+    },
+    {
+      "id": 4,
+      "marca": "Seat",
+      "modelo": "Arona",
+      "año": 2003,
+      "color": "Blanco",
+      "matricula": "3678WLV",
+      "precio_diario": 100,
+      "alquiler": {
+        "clienteId": 8,
+        "fechaInicio": "2023-08-14"
+      },
+      "imagen": "pexels-ryan-west-1719648.jpg",
+      "nota": null,
+      "kilometraje": 47079
+    },
+    {
+      "id": 5,
+      "marca": "Peugeot",
+      "modelo": "208",
+      "año": 2000,
+      "color": "Rojo",
+      "matricula": "3267JHS",
+      "precio_diario": 34,
+      "alquiler": {
+        "clienteId": 43,
+        "fechaInicio": "2023-09-11"
+      },
+      "imagen": "pexels-matheus-bertelli-3007435.jpg",
+      "nota": null,
+      "kilometraje": 53747
+    },
+    {
+      "id": 6,
+      "marca": "Citroën",
+      "modelo": "C4",
+      "año": 2024,
+      "color": "Negro",
+      "matricula": "9350WBV",
+      "precio_diario": 99,
+      "alquiler": {
+        "clienteId": 45,
+        "fechaInicio": "2022-03-24"
+      },
+      "imagen": "pexels-mike-bird-1335077.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 86044
+    },
+    {
+      "id": 7,
+      "marca": "Citroën",
+      "modelo": "Berlingo",
+      "año": 2020,
+      "color": "Negro",
+      "matricula": "7584HLL",
+      "precio_diario": 33,
+      "alquiler": {
+        "clienteId": 2,
+        "fechaInicio": "2023-11-06"
+      },
+      "imagen": "pexels-alteredsnaps-15240700.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 96874
+    },
+    {
+      "id": 8,
+      "marca": "Seat",
+      "modelo": "Ibiza",
+      "año": 2000,
+      "color": "Blanco",
+      "matricula": "5955MRH",
+      "precio_diario": 55,
+      "alquiler": null,
+      "imagen": "pexels-cesar-perez-733745.jpg",
+      "nota": null,
+      "kilometraje": 89724
+    },
+    {
+      "id": 9,
+      "marca": "Seat",
+      "modelo": "León",
+      "año": 2002,
+      "color": "Blanco",
+      "matricula": "4320XHL",
+      "precio_diario": 53,
+      "alquiler": null,
+      "imagen": "pexels-may-dayua-1545743.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 31543
+    },
+    {
+      "id": 10,
+      "marca": "Peugeot",
+      "modelo": "3008",
+      "año": 2006,
+      "color": "Amarillo",
+      "matricula": "2430CWD",
+      "precio_diario": 99,
+      "alquiler": {
+        "clienteId": 10,
+        "fechaInicio": "2022-02-24"
+      },
+      "imagen": "pexels-eduardo-gorghetto-13369577.jpg",
+      "nota": null,
+      "kilometraje": 84774
+    },
+    {
+      "id": 11,
+      "marca": "Peugeot",
+      "modelo": "208",
+      "año": 2015,
+      "color": "Amarillo",
+      "matricula": "9170LFT",
+      "precio_diario": 32,
+      "alquiler": {
+        "clienteId": 11,
+        "fechaInicio": "2022-11-19"
+      },
+      "imagen": "pexels-mike-noga-3608542.jpg",
+      "nota": null,
+      "kilometraje": 85896
+    },
+    {
+      "id": 12,
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2022,
+      "color": "Azul",
+      "matricula": "3411VKT",
+      "precio_diario": 84,
+      "alquiler": {
+        "clienteId": 43,
+        "fechaInicio": "2023-12-06"
+      },
+      "imagen": "pexels-tnarg-2906849.jpg",
+      "nota": null,
+      "kilometraje": 99965
+    },
+    {
+      "id": 13,
+      "marca": "Peugeot",
+      "modelo": "208",
+      "año": 2004,
+      "color": "Blanco",
+      "matricula": "8736FHK",
+      "precio_diario": 86,
+      "alquiler": {
+        "clienteId": 26,
+        "fechaInicio": "2023-02-05"
+      },
+      "imagen": "pexels-s-von-hoerst-2920064.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 90221
+    },
+    {
+      "id": 14,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2009,
+      "color": "Blanco",
+      "matricula": "3193JPX",
+      "precio_diario": 53,
+      "alquiler": {
+        "clienteId": 39,
+        "fechaInicio": "2022-01-22"
+      },
+      "imagen": "pexels-jacob-morch-457418.jpg",
+      "nota": "Necesita reparación",
+      "kilometraje": 681
+    },
+    {
+      "id": 15,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2014,
+      "color": "Negro",
+      "matricula": "9792HSF",
+      "precio_diario": 58,
+      "alquiler": {
+        "clienteId": 50,
+        "fechaInicio": "2022-10-11"
+      },
+      "imagen": "pexels-alteredsnaps-15240836.jpg",
+      "nota": null,
+      "kilometraje": 96176
+    },
+    {
+      "id": 16,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2004,
+      "color": "Negro",
+      "matricula": "3621BXH",
+      "precio_diario": 43,
+      "alquiler": {
+        "clienteId": 18,
+        "fechaInicio": "2022-04-11"
+      },
+      "imagen": "pexels-carlo-obrien-15450044.jpg",
+      "nota": null,
+      "kilometraje": 12094
+    },
+    {
+      "id": 17,
+      "marca": "Peugeot",
+      "modelo": "3008",
+      "año": 2003,
+      "color": "Negro",
+      "matricula": "2881MVY",
+      "precio_diario": 40,
+      "alquiler": null,
+      "imagen": "pexels-mouli-ghosh-18547037.jpg",
+      "nota": null,
+      "kilometraje": 88183
+    },
+    {
+      "id": 18,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2000,
+      "color": "Azul",
+      "matricula": "2971JSM",
+      "precio_diario": 85,
+      "alquiler": null,
+      "imagen": "pexels-alteredsnaps-15240986.jpg",
+      "nota": null,
+      "kilometraje": 61919
+    },
+    {
+      "id": 19,
+      "marca": "Peugeot",
+      "modelo": "208",
+      "año": 2018,
+      "color": "Rojo",
+      "matricula": "9192MDZ",
+      "precio_diario": 80,
+      "alquiler": null,
+      "imagen": "pexels-markus-spiske-1729993.jpg",
+      "nota": null,
+      "kilometraje": 12142
+    },
+    {
+      "id": 20,
+      "marca": "Opel",
+      "modelo": "Grandland",
+      "año": 2016,
+      "color": "Rojo",
+      "matricula": "1259CXP",
+      "precio_diario": 46,
+      "alquiler": {
+        "clienteId": 36,
+        "fechaInicio": "2023-09-17"
+      },
+      "imagen": "pexels-luca-istrate-15469368.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 95995
+    },
+    {
+      "id": 21,
+      "marca": "Seat",
+      "modelo": "Ibiza",
+      "año": 2009,
+      "color": "Verde",
+      "matricula": "6618NRF",
+      "precio_diario": 71,
+      "alquiler": {
+        "clienteId": 42,
+        "fechaInicio": "2022-11-22"
+      },
+      "imagen": "pexels-brady-knoll-3221159.jpg",
+      "nota": null,
+      "kilometraje": 96190
+    },
+    {
+      "id": 22,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2000,
+      "color": "Rojo",
+      "matricula": "9196PWP",
+      "precio_diario": 99,
+      "alquiler": null,
+      "imagen": "pexels-jesse-zheng-1213294.jpg",
+      "nota": null,
+      "kilometraje": 36778
+    },
+    {
+      "id": 23,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2010,
+      "color": "Blanco",
+      "matricula": "9270GFK",
+      "precio_diario": 94,
+      "alquiler": {
+        "clienteId": 8,
+        "fechaInicio": "2023-09-05"
+      },
+      "imagen": "pexels-prime-cinematics-2036544.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 13187
+    },
+    {
+      "id": 24,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2025,
+      "color": "Amarillo",
+      "matricula": "8248FDZ",
+      "precio_diario": 77,
+      "alquiler": {
+        "clienteId": 24,
+        "fechaInicio": "2022-02-27"
+      },
+      "imagen": "pexels-luca-musella-15437071.jpg",
+      "nota": null,
+      "kilometraje": 85579
+    },
+    {
+      "id": 25,
+      "marca": "Renault",
+      "modelo": "Captur",
+      "año": 2013,
+      "color": "Amarillo",
+      "matricula": "9856PXH",
+      "precio_diario": 80,
+      "alquiler": {
+        "clienteId": 5,
+        "fechaInicio": "2023-05-26"
+      },
+      "imagen": "pexels-祝-鹤槐-691595.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 45205
+    },
+    {
+      "id": 26,
+      "marca": "Seat",
+      "modelo": "Ibiza",
+      "año": 2013,
+      "color": "Azul",
+      "matricula": "1864CFD",
+      "precio_diario": 88,
+      "alquiler": null,
+      "imagen": "pexels-erik-mclean-5214413.jpg",
+      "nota": null,
+      "kilometraje": 3841
+    },
+    {
+      "id": 27,
+      "marca": "Renault",
+      "modelo": "Captur",
+      "año": 2004,
+      "color": "Blanco",
+      "matricula": "9507LSG",
+      "precio_diario": 43,
+      "alquiler": {
+        "clienteId": 28,
+        "fechaInicio": "2022-07-05"
+      },
+      "imagen": "pexels-mert-erol-15422102.jpg",
+      "nota": null,
+      "kilometraje": 13822
+    },
+    {
+      "id": 28,
+      "marca": "Opel",
+      "modelo": "Corsa",
+      "año": 2005,
+      "color": "Azul",
+      "matricula": "2429XDN",
+      "precio_diario": 51,
+      "alquiler": {
+        "clienteId": 45,
+        "fechaInicio": "2023-06-07"
+      },
+      "imagen": "pexels-pixabay-38637.jpg",
+      "nota": null,
+      "kilometraje": 51780
+    },
+    {
+      "id": 29,
+      "marca": "Citroën",
+      "modelo": "Berlingo",
+      "año": 2020,
+      "color": "Rojo",
+      "matricula": "9441FFB",
+      "precio_diario": 65,
+      "alquiler": {
+        "clienteId": 13,
+        "fechaInicio": "2023-06-27"
+      },
+      "imagen": "pexels-trace-constant-707046.jpg",
+      "nota": null,
+      "kilometraje": 37071
+    },
+    {
+      "id": 30,
+      "marca": "Citroën",
+      "modelo": "C4",
+      "año": 2021,
+      "color": "Rojo",
+      "matricula": "6333JFT",
+      "precio_diario": 70,
+      "alquiler": null,
+      "imagen": "pexels-alex-azabache-3879065.jpg",
+      "nota": null,
+      "kilometraje": 81190
+    },
+    {
+      "id": 31,
+      "marca": "Renault",
+      "modelo": "Clio",
+      "año": 2025,
+      "color": "Verde",
+      "matricula": "8209FXW",
+      "precio_diario": 88,
+      "alquiler": {
+        "clienteId": 7,
+        "fechaInicio": "2023-02-23"
+      },
+      "imagen": "pexels-pixabay-210019.jpg",
+      "nota": null,
+      "kilometraje": 99102
+    },
+    {
+      "id": 32,
+      "marca": "Peugeot",
+      "modelo": "3008",
+      "año": 2019,
+      "color": "Rojo",
+      "matricula": "2640SCM",
+      "precio_diario": 38,
+      "alquiler": {
+        "clienteId": 40,
+        "fechaInicio": "2023-04-04"
+      },
+      "imagen": "pexels-jerry-wang-15343322.jpg",
+      "nota": "Necesita reparación",
+      "kilometraje": 22564
+    },
+    {
+      "id": 33,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2007,
+      "color": "Azul",
+      "matricula": "7854BKJ",
+      "precio_diario": 55,
+      "alquiler": {
+        "clienteId": 42,
+        "fechaInicio": "2024-01-23"
+      },
+      "imagen": "pexels-matheus-viana-3863737.jpg",
+      "nota": "Necesita reparación",
+      "kilometraje": 77478
+    },
+    {
+      "id": 34,
+      "marca": "Opel",
+      "modelo": "Corsa",
+      "año": 2025,
+      "color": "Rojo",
+      "matricula": "4681BGM",
+      "precio_diario": 93,
+      "alquiler": {
+        "clienteId": 48,
+        "fechaInicio": "2023-04-11"
+      },
+      "imagen": "pexels-asish-aji-15439635.jpg",
+      "nota": null,
+      "kilometraje": 29435
+    },
+    {
+      "id": 35,
+      "marca": "Renault",
+      "modelo": "Captur",
+      "año": 2013,
+      "color": "Azul",
+      "matricula": "8319NGL",
+      "precio_diario": 82,
+      "alquiler": null,
+      "imagen": "pexels-zsolt-joo-2882234.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 48852
+    },
+    {
+      "id": 36,
+      "marca": "Renault",
+      "modelo": "Clio",
+      "año": 2007,
+      "color": "Blanco",
+      "matricula": "9237YGK",
+      "precio_diario": 98,
+      "alquiler": null,
+      "imagen": "pexels-eduardo-valdes-15435357.jpg",
+      "nota": null,
+      "kilometraje": 19564
+    },
+    {
+      "id": 37,
+      "marca": "Opel",
+      "modelo": "Corsa",
+      "año": 2014,
+      "color": "Blanco",
+      "matricula": "9776SLR",
+      "precio_diario": 86,
+      "alquiler": null,
+      "imagen": "pexels-aleksey-kuprikov-3786091.jpg",
+      "nota": null,
+      "kilometraje": 43656
+    },
+    {
+      "id": 38,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2015,
+      "color": "Rojo",
+      "matricula": "6498BKZ",
+      "precio_diario": 77,
+      "alquiler": null,
+      "imagen": "pexels-kris-lucas-3264504.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 81093
+    },
+    {
+      "id": 39,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2014,
+      "color": "Azul",
+      "matricula": "1706YGL",
+      "precio_diario": 70,
+      "alquiler": {
+        "clienteId": 42,
+        "fechaInicio": "2022-09-06"
+      },
+      "imagen": "pexels-arnie-watkins-3156482.jpg",
+      "nota": null,
+      "kilometraje": 52230
+    },
+    {
+      "id": 40,
+      "marca": "Volkswagen",
+      "modelo": "Tiguan",
+      "año": 2011,
+      "color": "Amarillo",
+      "matricula": "1925SXW",
+      "precio_diario": 75,
+      "alquiler": {
+        "clienteId": 33,
+        "fechaInicio": "2023-05-24"
+      },
+      "imagen": "Thumbs.db",
+      "nota": "Algunos rasguños",
+      "kilometraje": 42042
+    },
+    {
+      "id": 41,
+      "marca": "Opel",
+      "modelo": "Grandland",
+      "año": 2004,
+      "color": "Azul",
+      "matricula": "3097VBK",
+      "precio_diario": 37,
+      "alquiler": null,
+      "imagen": "pexels-aleksey-kuprikov-3786092.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 41473
+    },
+    {
+      "id": 42,
+      "marca": "Volkswagen",
+      "modelo": "Tiguan",
+      "año": 2001,
+      "color": "Amarillo",
+      "matricula": "1774ZYJ",
+      "precio_diario": 94,
+      "alquiler": null,
+      "imagen": "pexels-alteredsnaps-15240805.jpg",
+      "nota": "Necesita reparación",
+      "kilometraje": 31338
+    },
+    {
+      "id": 43,
+      "marca": "Citroën",
+      "modelo": "C4",
+      "año": 2022,
+      "color": "Blanco",
+      "matricula": "3860YVK",
+      "precio_diario": 98,
+      "alquiler": null,
+      "imagen": "pexels-shaan-johari-2405039.jpg",
+      "nota": "Necesita reparación",
+      "kilometraje": 10625
+    },
+    {
+      "id": 44,
+      "marca": "Renault",
+      "modelo": "Captur",
+      "año": 2007,
+      "color": "Rojo",
+      "matricula": "7511PGP",
+      "precio_diario": 98,
+      "alquiler": null,
+      "imagen": "pexels-alexgtacar-1592384.jpg",
+      "nota": null,
+      "kilometraje": 62604
+    },
+    {
+      "id": 45,
+      "marca": "Seat",
+      "modelo": "Arona",
+      "año": 2021,
+      "color": "Amarillo",
+      "matricula": "3471MNN",
+      "precio_diario": 89,
+      "alquiler": null,
+      "imagen": "pexels-mat-brown-952338.jpg",
+      "nota": null,
+      "kilometraje": 53908
+    },
+    {
+      "id": 46,
+      "marca": "Seat",
+      "modelo": "Arona",
+      "año": 2010,
+      "color": "Azul",
+      "matricula": "5174JCC",
+      "precio_diario": 65,
+      "alquiler": {
+        "clienteId": 34,
+        "fechaInicio": "2024-02-10"
+      },
+      "imagen": "pexels-eduardo-valdes-15435381.jpg",
+      "nota": null,
+      "kilometraje": 34369
+    },
+    {
+      "id": 47,
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2009,
+      "color": "Amarillo",
+      "matricula": "3671NVD",
+      "precio_diario": 59,
+      "alquiler": null,
+      "imagen": "pexels-jay-pizzle-3752194.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 38357
+    },
+    {
+      "id": 48,
+      "marca": "Seat",
+      "modelo": "León",
+      "año": 2021,
+      "color": "Rojo",
+      "matricula": "9590CCB",
+      "precio_diario": 42,
+      "alquiler": {
+        "clienteId": 40,
+        "fechaInicio": "2023-07-12"
+      },
+      "imagen": "pexels-alteredsnaps-15240734.jpg",
+      "nota": null,
+      "kilometraje": 83516
+    },
+    {
+      "id": 49,
+      "marca": "Citroën",
+      "modelo": "Berlingo",
+      "año": 2007,
+      "color": "Amarillo",
+      "matricula": "1779DKF",
+      "precio_diario": 38,
+      "alquiler": null,
+      "imagen": "pexels-aidan-jarrett-687653.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 92072
+    },
+    {
+      "id": 50,
+      "marca": "Peugeot",
+      "modelo": "208",
+      "año": 2020,
+      "color": "Blanco",
+      "matricula": "6633TSJ",
+      "precio_diario": 46,
+      "alquiler": {
+        "clienteId": 48,
+        "fechaInicio": "2023-02-28"
+      },
+      "imagen": "pexels-peter-s-15443344.jpg",
+      "nota": null,
+      "kilometraje": 63602
+    },
+    {
+      "id": 51,
+      "marca": "Seat",
+      "modelo": "León",
+      "año": 2015,
+      "color": "Verde",
+      "matricula": "9729PBR",
+      "precio_diario": 89,
+      "alquiler": {
+        "clienteId": 24,
+        "fechaInicio": "2022-09-03"
+      },
+      "imagen": "pexels-george-sultan-1768826.jpg",
+      "nota": null,
+      "kilometraje": 25276
+    },
+    {
+      "id": 52,
+      "marca": "Seat",
+      "modelo": "León",
+      "año": 2006,
+      "color": "Blanco",
+      "matricula": "7714YNF",
+      "precio_diario": 47,
+      "alquiler": {
+        "clienteId": 2,
+        "fechaInicio": "2022-03-18"
+      },
+      "imagen": "pexels-adrian-dorobantu-2127733.jpg",
+      "nota": null,
+      "kilometraje": 85320
+    },
+    {
+      "id": 53,
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2001,
+      "color": "Rojo",
+      "matricula": "4291PZR",
+      "precio_diario": 52,
+      "alquiler": {
+        "clienteId": 38,
+        "fechaInicio": "2022-09-10"
+      },
+      "imagen": "pexels-julio-nery-1687147.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 49290
+    },
+    {
+      "id": 54,
+      "marca": "Volkswagen",
+      "modelo": "Tiguan",
+      "año": 2025,
+      "color": "Negro",
+      "matricula": "5118JZJ",
+      "precio_diario": 44,
+      "alquiler": {
+        "clienteId": 26,
+        "fechaInicio": "2022-05-01"
+      },
+      "imagen": "pexels-tom-verdoot-1972736.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 47151
+    },
+    {
+      "id": 55,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2021,
+      "color": "Azul",
+      "matricula": "8256DZF",
+      "precio_diario": 51,
+      "alquiler": {
+        "clienteId": 6,
+        "fechaInicio": "2022-06-19"
+      },
+      "imagen": "pexels-brady-knoll-3221165.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 92767
+    },
+    {
+      "id": 56,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2012,
+      "color": "Blanco",
+      "matricula": "6864TTB",
+      "precio_diario": 73,
+      "alquiler": null,
+      "imagen": "pexels-luca-istrate-15469364.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 66758
+    },
+    {
+      "id": 57,
+      "marca": "Opel",
+      "modelo": "Corsa",
+      "año": 2000,
+      "color": "Verde",
+      "matricula": "1547LBV",
+      "precio_diario": 78,
+      "alquiler": {
+        "clienteId": 1,
+        "fechaInicio": "2023-07-01"
+      },
+      "imagen": "pexels-anıl-karakaya-15358882.jpg",
+      "nota": null,
+      "kilometraje": 27757
+    },
+    {
+      "id": 58,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2006,
+      "color": "Rojo",
+      "matricula": "3646DYT",
+      "precio_diario": 34,
+      "alquiler": {
+        "clienteId": 38,
+        "fechaInicio": "2022-08-10"
+      },
+      "imagen": "pexels-gabriel-hohol-3593922.jpg",
+      "nota": null,
+      "kilometraje": 22421
+    },
+    {
+      "id": 59,
+      "marca": "Renault",
+      "modelo": "Captur",
+      "año": 2008,
+      "color": "Verde",
+      "matricula": "5020ZXN",
+      "precio_diario": 88,
+      "alquiler": {
+        "clienteId": 23,
+        "fechaInicio": "2022-01-04"
+      },
+      "imagen": "pexels-ebin-kuriakose-15305882.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 84801
+    },
+    {
+      "id": 60,
+      "marca": "Renault",
+      "modelo": "Clio",
+      "año": 2001,
+      "color": "Negro",
+      "matricula": "1728VKY",
+      "precio_diario": 45,
+      "alquiler": {
+        "clienteId": 24,
+        "fechaInicio": "2023-05-29"
+      },
+      "imagen": "pexels-abdulwahab-alawadhi-3422964.jpg",
+      "nota": null,
+      "kilometraje": 64892
+    },
+    {
+      "id": 61,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2002,
+      "color": "Verde",
+      "matricula": "3144JBZ",
+      "precio_diario": 87,
+      "alquiler": {
+        "clienteId": 46,
+        "fechaInicio": "2023-11-21"
+      },
+      "imagen": "pexels-mike-bird-170811.jpg",
+      "nota": "Necesita reparación",
+      "kilometraje": 20256
+    },
+    {
+      "id": 62,
+      "marca": "Volkswagen",
+      "modelo": "Tiguan",
+      "año": 2023,
+      "color": "Rojo",
+      "matricula": "2891WDY",
+      "precio_diario": 49,
+      "alquiler": {
+        "clienteId": 43,
+        "fechaInicio": "2022-07-28"
+      },
+      "imagen": "pexels-scott-neil-15367020.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 67952
+    },
+    {
+      "id": 63,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2004,
+      "color": "Azul",
+      "matricula": "8754DNC",
+      "precio_diario": 73,
+      "alquiler": {
+        "clienteId": 38,
+        "fechaInicio": "2024-02-21"
+      },
+      "imagen": "pexels-zsolt-joo-15206030.jpg",
+      "nota": null,
+      "kilometraje": 41089
+    },
+    {
+      "id": 64,
+      "marca": "Opel",
+      "modelo": "Corsa",
+      "año": 2016,
+      "color": "Rojo",
+      "matricula": "1796JJJ",
+      "precio_diario": 58,
+      "alquiler": {
+        "clienteId": 40,
+        "fechaInicio": "2022-10-26"
+      },
+      "imagen": "pexels-tim-board-15435320.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 67840
+    },
+    {
+      "id": 65,
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2010,
+      "color": "Verde",
+      "matricula": "2290BHZ",
+      "precio_diario": 78,
+      "alquiler": {
+        "clienteId": 20,
+        "fechaInicio": "2023-12-15"
+      },
+      "imagen": "pexels-olena-bohovyk-3646108.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 72008
+    },
+    {
+      "id": 66,
+      "marca": "Volkswagen",
+      "modelo": "Tiguan",
+      "año": 2020,
+      "color": "Azul",
+      "matricula": "4103MLB",
+      "precio_diario": 30,
+      "alquiler": {
+        "clienteId": 17,
+        "fechaInicio": "2022-02-13"
+      },
+      "imagen": "pexels-liza-lova-2739286.jpg",
+      "nota": "Necesita reparación",
+      "kilometraje": 17015
+    },
+    {
+      "id": 67,
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2014,
+      "color": "Rojo",
+      "matricula": "4467VFH",
+      "precio_diario": 77,
+      "alquiler": {
+        "clienteId": 49,
+        "fechaInicio": "2023-01-02"
+      },
+      "imagen": "pexels-bekir-umut-vural-15441453.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 97931
+    },
+    {
+      "id": 68,
+      "marca": "Renault",
+      "modelo": "Clio",
+      "año": 2018,
+      "color": "Blanco",
+      "matricula": "5850CDF",
+      "precio_diario": 78,
+      "alquiler": null,
+      "imagen": "pexels-allie-feeley-15166495.jpg",
+      "nota": null,
+      "kilometraje": 34832
+    },
+    {
+      "id": 69,
+      "marca": "Seat",
+      "modelo": "Arona",
+      "año": 2025,
+      "color": "Rojo",
+      "matricula": "8138NDN",
+      "precio_diario": 61,
+      "alquiler": null,
+      "imagen": "pexels-mike-bird-116675.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 53866
+    },
+    {
+      "id": 70,
+      "marca": "Citroën",
+      "modelo": "Berlingo",
+      "año": 2023,
+      "color": "Blanco",
+      "matricula": "2561CJR",
+      "precio_diario": 64,
+      "alquiler": {
+        "clienteId": 42,
+        "fechaInicio": "2023-04-02"
+      },
+      "imagen": "pexels-dmitry-zvolskiy-1637859.jpg",
+      "nota": null,
+      "kilometraje": 9427
+    },
+    {
+      "id": 71,
+      "marca": "Opel",
+      "modelo": "Grandland",
+      "año": 2012,
+      "color": "Azul",
+      "matricula": "2976RLX",
+      "precio_diario": 76,
+      "alquiler": {
+        "clienteId": 45,
+        "fechaInicio": "2022-05-12"
+      },
+      "imagen": "pexels-oleksandr-p-376361.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 93128
+    },
+    {
+      "id": 72,
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2017,
+      "color": "Blanco",
+      "matricula": "2612XXR",
+      "precio_diario": 32,
+      "alquiler": {
+        "clienteId": 5,
+        "fechaInicio": "2022-10-17"
+      },
+      "imagen": "pexels-avinash-patel-544542.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 22418
+    },
+    {
+      "id": 73,
+      "marca": "Opel",
+      "modelo": "Grandland",
+      "año": 2004,
+      "color": "Negro",
+      "matricula": "4808XKN",
+      "precio_diario": 77,
+      "alquiler": {
+        "clienteId": 42,
+        "fechaInicio": "2022-12-10"
+      },
+      "imagen": "pexels-kamshotthat-3457780.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 62551
+    },
+    {
+      "id": 74,
+      "marca": "Opel",
+      "modelo": "Corsa",
+      "año": 2008,
+      "color": "Amarillo",
+      "matricula": "5149RSD",
+      "precio_diario": 36,
+      "alquiler": null,
+      "imagen": "pexels-mike-bird-112460.jpg",
+      "nota": null,
+      "kilometraje": 81203
+    },
+    {
+      "id": 75,
+      "marca": "Renault",
+      "modelo": "Captur",
+      "año": 2005,
+      "color": "Rojo",
+      "matricula": "1003SMY",
+      "precio_diario": 65,
+      "alquiler": null,
+      "imagen": "pexels-ahmed-zaki-15330936.jpg",
+      "nota": null,
+      "kilometraje": 14281
+    },
+    {
+      "id": 76,
+      "marca": "Peugeot",
+      "modelo": "3008",
+      "año": 2007,
+      "color": "Azul",
+      "matricula": "5931SWG",
+      "precio_diario": 81,
+      "alquiler": {
+        "clienteId": 26,
+        "fechaInicio": "2023-12-14"
+      },
+      "imagen": "pexels-s-von-hoerst-2676096.jpg",
+      "nota": null,
+      "kilometraje": 50171
+    },
+    {
+      "id": 77,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2010,
+      "color": "Blanco",
+      "matricula": "4551HYS",
+      "precio_diario": 97,
+      "alquiler": {
+        "clienteId": 35,
+        "fechaInicio": "2022-10-10"
+      },
+      "imagen": "pexels-roberto-nickson-3166786.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 83654
+    },
+    {
+      "id": 78,
+      "marca": "Peugeot",
+      "modelo": "3008",
+      "año": 2013,
+      "color": "Rojo",
+      "matricula": "3092SGH",
+      "precio_diario": 57,
+      "alquiler": {
+        "clienteId": 9,
+        "fechaInicio": "2022-10-03"
+      },
+      "imagen": "pexels-kelvin-valerio-1519192.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 77258
+    },
+    {
+      "id": 79,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2023,
+      "color": "Verde",
+      "matricula": "4054TRL",
+      "precio_diario": 89,
+      "alquiler": {
+        "clienteId": 31,
+        "fechaInicio": "2023-08-25"
+      },
+      "imagen": "pexels-kamshotthat-5086489.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 50283
+    },
+    {
+      "id": 80,
+      "marca": "Volkswagen",
+      "modelo": "Golf",
+      "año": 2024,
+      "color": "Amarillo",
+      "matricula": "4198VBZ",
+      "precio_diario": 65,
+      "alquiler": null,
+      "imagen": "pexels-malcoln-oliveira-15266274.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 32831
+    },
+    {
+      "id": 81,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2017,
+      "color": "Verde",
+      "matricula": "9744PSW",
+      "precio_diario": 70,
+      "alquiler": {
+        "clienteId": 10,
+        "fechaInicio": "2023-01-05"
+      },
+      "imagen": "pexels-viktor-lundberg-754595.jpg",
+      "nota": null,
+      "kilometraje": 69663
+    },
+    {
+      "id": 82,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2000,
+      "color": "Azul",
+      "matricula": "2004NLC",
+      "precio_diario": 50,
+      "alquiler": {
+        "clienteId": 25,
+        "fechaInicio": "2022-12-15"
+      },
+      "imagen": "pexels-mikhail-matveev-2876872.jpg",
+      "nota": null,
+      "kilometraje": 47711
+    },
+    {
+      "id": 83,
+      "marca": "Peugeot",
+      "modelo": "308",
+      "año": 2023,
+      "color": "Negro",
+      "matricula": "9455XXR",
+      "precio_diario": 39,
+      "alquiler": null,
+      "imagen": "pexels-vlad-alexandru-popa-1402787.jpg",
+      "nota": null,
+      "kilometraje": 66969
+    },
+    {
+      "id": 84,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2000,
+      "color": "Verde",
+      "matricula": "7510YBJ",
+      "precio_diario": 100,
+      "alquiler": null,
+      "imagen": "pexels-albin-berlin-919073.jpg",
+      "nota": null,
+      "kilometraje": 7273
+    },
+    {
+      "id": 85,
+      "marca": "Volkswagen",
+      "modelo": "Tiguan",
+      "año": 2008,
+      "color": "Negro",
+      "matricula": "6272JPP",
+      "precio_diario": 70,
+      "alquiler": null,
+      "imagen": "pexels-nubia-navarro-(nubikini)-386025.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 34726
+    },
+    {
+      "id": 86,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2002,
+      "color": "Azul",
+      "matricula": "7128RVJ",
+      "precio_diario": 31,
+      "alquiler": {
+        "clienteId": 20,
+        "fechaInicio": "2023-07-05"
+      },
+      "imagen": "pexels-emre-aslihak-15107450.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 11841
+    },
+    {
+      "id": 87,
+      "marca": "Renault",
+      "modelo": "Mégane",
+      "año": 2001,
+      "color": "Verde",
+      "matricula": "5197RNZ",
+      "precio_diario": 92,
+      "alquiler": {
+        "clienteId": 48,
+        "fechaInicio": "2022-02-12"
+      },
+      "imagen": "pexels-pixabay-39501.jpg",
+      "nota": null,
+      "kilometraje": 47501
+    },
+    {
+      "id": 88,
+      "marca": "Peugeot",
+      "modelo": "208",
+      "año": 2012,
+      "color": "Negro",
+      "matricula": "4612SNG",
+      "precio_diario": 91,
+      "alquiler": {
+        "clienteId": 33,
+        "fechaInicio": "2023-09-24"
+      },
+      "imagen": "pexels-sevenstorm-juhaszimrus-575386.jpg",
+      "nota": null,
+      "kilometraje": 64735
+    },
+    {
+      "id": 89,
+      "marca": "Renault",
+      "modelo": "Clio",
+      "año": 2007,
+      "color": "Blanco",
+      "matricula": "1240ZBY",
+      "precio_diario": 57,
+      "alquiler": {
+        "clienteId": 50,
+        "fechaInicio": "2023-06-20"
+      },
+      "imagen": "pexels-charles-kettor-831475.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 91484
+    },
+    {
+      "id": 90,
+      "marca": "Citroën",
+      "modelo": "C3",
+      "año": 2017,
+      "color": "Verde",
+      "matricula": "5255RVB",
+      "precio_diario": 49,
+      "alquiler": {
+        "clienteId": 41,
+        "fechaInicio": "2022-02-03"
+      },
+      "imagen": "pexels-mike-bird-977003.jpg",
+      "nota": "Algunos rasguños",
+      "kilometraje": 85963
+    },
+    {
+      "id": 91,
+      "marca": "Peugeot",
+      "modelo": "308",
+      "año": 2007,
+      "color": "Negro",
+      "matricula": "2202TRD",
+      "precio_diario": 62,
+      "alquiler": {
+        "clienteId": 5,
+        "fechaInicio": "2023-07-27"
+      },
+      "imagen": "pexels-lina-kivaka-1841120.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 75546
+    },
+    {
+      "id": 92,
+      "marca": "Citroën",
+      "modelo": "Berlingo",
+      "año": 2023,
+      "color": "Negro",
+      "matricula": "6509YFT",
+      "precio_diario": 67,
+      "alquiler": null,
+      "imagen": "pexels-anton-imbro-1975106.jpg",
+      "nota": null,
+      "kilometraje": 11326
+    },
+    {
+      "id": 93,
+      "marca": "Seat",
+      "modelo": "Ibiza",
+      "año": 2007,
+      "color": "Verde",
+      "matricula": "5607SHJ",
+      "precio_diario": 60,
+      "alquiler": {
+        "clienteId": 4,
+        "fechaInicio": "2023-06-01"
+      },
+      "imagen": "pexels-lukas-žvikas-1075947.jpg",
+      "nota": null,
+      "kilometraje": 93609
+    },
+    {
+      "id": 94,
+      "marca": "Seat",
+      "modelo": "León",
+      "año": 2008,
+      "color": "Negro",
+      "matricula": "2328XKY",
+      "precio_diario": 79,
+      "alquiler": null,
+      "imagen": "pexels-thuany-marcante-1805053.jpg",
+      "nota": "Interior impecable",
+      "kilometraje": 26725
+    },
+    {
+      "id": 95,
+      "marca": "Peugeot",
+      "modelo": "3008",
+      "año": 2022,
+      "color": "Azul",
+      "matricula": "3451JHH",
+      "precio_diario": 41,
+      "alquiler": {
+        "clienteId": 43,
+        "fechaInicio": "2024-02-23"
+      },
+      "imagen": "pexels-dorota-semla-15463971.jpg",
+      "nota": null,
+      "kilometraje": 99626
+    },
+    {
+      "id": 96,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "año": 2003,
+      "color": "Negro",
+      "matricula": "8706SPR",
+      "precio_diario": 64,
+      "alquiler": null,
+      "imagen": "pexels-simon-berger-730615.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 64470
+    },
+    {
+      "id": 97,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2018,
+      "color": "Verde",
+      "matricula": "9218MMP",
+      "precio_diario": 54,
+      "alquiler": null,
+      "imagen": "pexels-christian-1164778.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 53304
+    },
+    {
+      "id": 98,
+      "marca": "Opel",
+      "modelo": "Astra",
+      "año": 2007,
+      "color": "Amarillo",
+      "matricula": "9429DKM",
+      "precio_diario": 46,
+      "alquiler": {
+        "clienteId": 43,
+        "fechaInicio": "2022-09-19"
+      },
+      "imagen": "pexels-ali-kazal-15448449.jpg",
+      "nota": "Recién lavado",
+      "kilometraje": 76043
+    },
+    {
+      "id": 99,
+      "marca": "Seat",
+      "modelo": "León",
+      "año": 2022,
+      "color": "Negro",
+      "matricula": "1301CJK",
+      "precio_diario": 84,
+      "alquiler": {
+        "clienteId": 26,
+        "fechaInicio": "2023-04-06"
+      },
+      "imagen": "pexels-deacan-white-15244414.jpg",
+      "nota": "Perfecto estado",
+      "kilometraje": 83915
+    },
+    {
+      "id": 100,
+      "marca": "Peugeot",
+      "modelo": "208",
+      "año": 2005,
+      "color": "Rojo",
+      "matricula": "7111SPH",
+      "precio_diario": 39,
+      "alquiler": {
+        "clienteId": 10,
+        "fechaInicio": "2022-04-15"
+      },
+      "imagen": "pexels-tubagus-alief-leo-15415297.jpg",
+      "nota": null,
+      "kilometraje": 98059
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Isabel",
+      "apellido": "González",
+      "segundoApellido": "García",
+      "email": "cliente1@example.com",
+      "telefono": "669190634"
+    },
+    {
+      "id": 2,
+      "nombre": "Isabel",
+      "apellido": "González",
+      "segundoApellido": "González",
+      "email": "cliente2@example.com",
+      "telefono": "669337125"
+    },
+    {
+      "id": 3,
+      "nombre": "María",
+      "apellido": "López",
+      "segundoApellido": "Martínez",
+      "email": "cliente3@example.com",
+      "telefono": "681213029"
+    },
+    {
+      "id": 4,
+      "nombre": "Isabel",
+      "apellido": "Fernández",
+      "segundoApellido": "Fernández",
+      "email": "cliente4@example.com",
+      "telefono": "653581976"
+    },
+    {
+      "id": 5,
+      "nombre": "María",
+      "apellido": "González",
+      "segundoApellido": "Fernández",
+      "email": "cliente5@example.com",
+      "telefono": "639051932"
+    },
+    {
+      "id": 6,
+      "nombre": "Isabel",
+      "apellido": "Martínez",
+      "segundoApellido": "Sánchez",
+      "email": "cliente6@example.com",
+      "telefono": "648298043"
+    },
+    {
+      "id": 7,
+      "nombre": "José",
+      "apellido": "Fernández",
+      "segundoApellido": "Martínez",
+      "email": "cliente7@example.com",
+      "telefono": "679197879"
+    },
+    {
+      "id": 8,
+      "nombre": "José",
+      "apellido": "Fernández",
+      "segundoApellido": "López",
+      "email": "cliente8@example.com",
+      "telefono": "694846461"
+    },
+    {
+      "id": 9,
+      "nombre": "José",
+      "apellido": "López",
+      "segundoApellido": "Sánchez",
+      "email": "cliente9@example.com",
+      "telefono": "678710846"
+    },
+    {
+      "id": 10,
+      "nombre": "José",
+      "apellido": "Fernández",
+      "segundoApellido": null,
+      "email": "cliente10@example.com",
+      "telefono": "638271136"
+    },
+    {
+      "id": 11,
+      "nombre": "Antonio",
+      "apellido": "Fernández",
+      "segundoApellido": "Sánchez",
+      "email": "cliente11@example.com",
+      "telefono": "679241510"
+    },
+    {
+      "id": 12,
+      "nombre": "Isabel",
+      "apellido": "Sánchez",
+      "segundoApellido": "García",
+      "email": "cliente12@example.com",
+      "telefono": "680563347"
+    },
+    {
+      "id": 13,
+      "nombre": "Antonio",
+      "apellido": "Sánchez",
+      "segundoApellido": null,
+      "email": "cliente13@example.com",
+      "telefono": "616189596"
+    },
+    {
+      "id": 14,
+      "nombre": "María",
+      "apellido": "Martínez",
+      "segundoApellido": "González",
+      "email": "cliente14@example.com",
+      "telefono": "659103094"
+    },
+    {
+      "id": 15,
+      "nombre": "María",
+      "apellido": "Martínez",
+      "segundoApellido": "Martínez",
+      "email": "cliente15@example.com",
+      "telefono": "681362550"
+    },
+    {
+      "id": 16,
+      "nombre": "Isabel",
+      "apellido": "Sánchez",
+      "segundoApellido": "Fernández",
+      "email": "cliente16@example.com",
+      "telefono": "613534401"
+    },
+    {
+      "id": 17,
+      "nombre": "Manuel",
+      "apellido": "Fernández",
+      "segundoApellido": "Martínez",
+      "email": "cliente17@example.com",
+      "telefono": "639624184"
+    },
+    {
+      "id": 18,
+      "nombre": "José",
+      "apellido": "García",
+      "segundoApellido": "Martínez",
+      "email": "cliente18@example.com",
+      "telefono": "694467936"
+    },
+    {
+      "id": 19,
+      "nombre": "Antonio",
+      "apellido": "Sánchez",
+      "segundoApellido": "Martínez",
+      "email": "cliente19@example.com",
+      "telefono": "662766228"
+    },
+    {
+      "id": 20,
+      "nombre": "María",
+      "apellido": "Martínez",
+      "segundoApellido": "Sánchez",
+      "email": "cliente20@example.com",
+      "telefono": "660486535"
+    },
+    {
+      "id": 21,
+      "nombre": "María",
+      "apellido": "García",
+      "segundoApellido": "Martínez",
+      "email": "cliente21@example.com",
+      "telefono": "660013747"
+    },
+    {
+      "id": 22,
+      "nombre": "Laura",
+      "apellido": "López",
+      "segundoApellido": "Sánchez",
+      "email": "cliente22@example.com",
+      "telefono": "659516833"
+    },
+    {
+      "id": 23,
+      "nombre": "Manuel",
+      "apellido": "Sánchez",
+      "segundoApellido": "Sánchez",
+      "email": "cliente23@example.com",
+      "telefono": "618740896"
+    },
+    {
+      "id": 24,
+      "nombre": "María",
+      "apellido": "Fernández",
+      "segundoApellido": null,
+      "email": "cliente24@example.com",
+      "telefono": "617186696"
+    },
+    {
+      "id": 25,
+      "nombre": "Antonio",
+      "apellido": "López",
+      "segundoApellido": "Martínez",
+      "email": "cliente25@example.com",
+      "telefono": "654798554"
+    },
+    {
+      "id": 26,
+      "nombre": "Laura",
+      "apellido": "Martínez",
+      "segundoApellido": "González",
+      "email": "cliente26@example.com",
+      "telefono": "634853555"
+    },
+    {
+      "id": 27,
+      "nombre": "Isabel",
+      "apellido": "González",
+      "segundoApellido": "González",
+      "email": "cliente27@example.com",
+      "telefono": "620343919"
+    },
+    {
+      "id": 28,
+      "nombre": "Manuel",
+      "apellido": "García",
+      "segundoApellido": "García",
+      "email": "cliente28@example.com",
+      "telefono": "634235444"
+    },
+    {
+      "id": 29,
+      "nombre": "Isabel",
+      "apellido": "García",
+      "segundoApellido": null,
+      "email": "cliente29@example.com",
+      "telefono": "697898822"
+    },
+    {
+      "id": 30,
+      "nombre": "Laura",
+      "apellido": "González",
+      "segundoApellido": "González",
+      "email": "cliente30@example.com",
+      "telefono": "621580155"
+    },
+    {
+      "id": 31,
+      "nombre": "Laura",
+      "apellido": "López",
+      "segundoApellido": "Martínez",
+      "email": "cliente31@example.com",
+      "telefono": "635283653"
+    },
+    {
+      "id": 32,
+      "nombre": "Antonio",
+      "apellido": "Martínez",
+      "segundoApellido": "Sánchez",
+      "email": "cliente32@example.com",
+      "telefono": "696743404"
+    },
+    {
+      "id": 33,
+      "nombre": "José",
+      "apellido": "Sánchez",
+      "segundoApellido": "López",
+      "email": "cliente33@example.com",
+      "telefono": "691837420"
+    },
+    {
+      "id": 34,
+      "nombre": "José",
+      "apellido": "García",
+      "segundoApellido": "García",
+      "email": "cliente34@example.com",
+      "telefono": "613152686"
+    },
+    {
+      "id": 35,
+      "nombre": "José",
+      "apellido": "González",
+      "segundoApellido": "Sánchez",
+      "email": "cliente35@example.com",
+      "telefono": "617991199"
+    },
+    {
+      "id": 36,
+      "nombre": "Isabel",
+      "apellido": "González",
+      "segundoApellido": "Sánchez",
+      "email": "cliente36@example.com",
+      "telefono": "696905857"
+    },
+    {
+      "id": 37,
+      "nombre": "José",
+      "apellido": "López",
+      "segundoApellido": "García",
+      "email": "cliente37@example.com",
+      "telefono": "663134324"
+    },
+    {
+      "id": 38,
+      "nombre": "Antonio",
+      "apellido": "Martínez",
+      "segundoApellido": "López",
+      "email": "cliente38@example.com",
+      "telefono": "622550406"
+    },
+    {
+      "id": 39,
+      "nombre": "Antonio",
+      "apellido": "López",
+      "segundoApellido": "López",
+      "email": "cliente39@example.com",
+      "telefono": "618712424"
+    },
+    {
+      "id": 40,
+      "nombre": "José",
+      "apellido": "López",
+      "segundoApellido": "Sánchez",
+      "email": "cliente40@example.com",
+      "telefono": "689859756"
+    },
+    {
+      "id": 41,
+      "nombre": "María",
+      "apellido": "Martínez",
+      "segundoApellido": "López",
+      "email": "cliente41@example.com",
+      "telefono": "628133437"
+    },
+    {
+      "id": 42,
+      "nombre": "María",
+      "apellido": "Fernández",
+      "segundoApellido": "Martínez",
+      "email": "cliente42@example.com",
+      "telefono": "685346844"
+    },
+    {
+      "id": 43,
+      "nombre": "Laura",
+      "apellido": "Sánchez",
+      "segundoApellido": null,
+      "email": "cliente43@example.com",
+      "telefono": "624463061"
+    },
+    {
+      "id": 44,
+      "nombre": "Manuel",
+      "apellido": "Sánchez",
+      "segundoApellido": "García",
+      "email": "cliente44@example.com",
+      "telefono": "675480990"
+    },
+    {
+      "id": 45,
+      "nombre": "Laura",
+      "apellido": "Martínez",
+      "segundoApellido": "García",
+      "email": "cliente45@example.com",
+      "telefono": "681288688"
+    },
+    {
+      "id": 46,
+      "nombre": "María",
+      "apellido": "González",
+      "segundoApellido": "González",
+      "email": "cliente46@example.com",
+      "telefono": "650313653"
+    },
+    {
+      "id": 47,
+      "nombre": "María",
+      "apellido": "Sánchez",
+      "segundoApellido": "Martínez",
+      "email": "cliente47@example.com",
+      "telefono": "689519487"
+    },
+    {
+      "id": 48,
+      "nombre": "Laura",
+      "apellido": "Martínez",
+      "segundoApellido": "García",
+      "email": "cliente48@example.com",
+      "telefono": "670514789"
+    },
+    {
+      "id": 49,
+      "nombre": "Antonio",
+      "apellido": "González",
+      "segundoApellido": "Fernández",
+      "email": "cliente49@example.com",
+      "telefono": "610203302"
+    },
+    {
+      "id": 50,
+      "nombre": "Isabel",
+      "apellido": "García",
+      "segundoApellido": "Sánchez",
+      "email": "cliente50@example.com",
+      "telefono": "648346230"
+    }
+  ]
+}
